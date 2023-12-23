@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 from scipy.signal import savgol_filter
 
-from person import Person, Drink
+from backend.person import Person, Drink
 
 if __name__ == "__main__":
     #person = Person(24, 73, 173, True)
