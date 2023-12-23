@@ -1,0 +1,58 @@
+{
+    "age": 24,
+    "weight": 73,
+    "height": 173,
+    "sex": true,
+    "drinks": [
+        {
+            "timestamp": 1703345907.677378,
+            "drink": {
+                "volume": 500,
+                "percent": 10.2,
+                "name": "Test 1",
+                "price": null,
+                "barcode": null
+            }
+        },
+        {
+            "timestamp": 1703349507.677385,
+            "drink": {
+                "volume": 500,
+                "percent": 10.2,
+                "name": "Test 2",
+                "price": null,
+                "barcode": null
+            }
+        },
+        {
+            "timestamp": 1703353107.677387,
+            "drink": {
+                "volume": 500,
+                "percent": 10.2,
+                "name": "Test 3",
+                "price": null,
+                "barcode": null
+            }
+        },
+        {
+            "timestamp": 1703356707.677389,
+            "drink": {
+                "volume": 500,
+                "percent": 10.2,
+                "name": "Test 4",
+                "price": null,
+                "barcode": null
+            }
+        },
+        {
+            "timestamp": 1697666400.0,
+            "drink": {
+                "volume": 30,
+                "percent": 5.2,
+                "name": "Test old",
+                "price": null,
+                "barcode": null
+            }
+        }
+    ]
+}
